@@ -1,0 +1,700 @@
+O B-ns I-ns O O B-playlist I-playlist O 
+O O O O B-party_size_number O O O O O O B-ns O B-ns O O B-restaurant_type O 
+O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist 
+O O B-ns O B-state O B-timeRange I-timeRange I-timeRange 
+O B-ns I-ns B-music_item O O O B-sort 
+O O O O O O B-movie_type I-movie_type O O B-ns I-ns 
+O O O O O O O B-sort I-sort B-restaurant_type O B-ns 
+O O O O B-current_location O B-timeRange 
+O B-movie_name I-movie_name O B-timeRange O O B-object_location_type I-object_location_type 
+O B-timeRange I-timeRange I-timeRange O O O O O O O B-state B-restaurant_type 
+O B-movie_type O O O B-location_name I-location_name 
+O O B-object_type O B-object_name I-object_name I-object_name 
+O B-movie_name I-movie_name I-movie_name 
+O O O O O B-restaurant_type O O B-served_dish O B-ns I-ns I-ns O B-party_size_number 
+O O O O O B-object_type I-object_type B-object_name I-object_name I-object_name 
+O O B-ns O O O O B-current_location I-current_location O B-timeRange O 
+O O B-object_name I-object_name I-object_name B-object_type 
+O O O O O B-state I-state 
+O B-object_location_type I-object_location_type O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name 
+B-restaurant_type O B-ns B-timeRange I-timeRange O O B-party_size_number O 
+O O B-ns B-object_type B-rating_value O B-best_rating B-rating_unit 
+O O B-music_item B-playlist I-playlist I-playlist I-playlist I-playlist O B-playlist_owner O 
+O O B-music_item O B-ns I-ns O B-playlist I-playlist O 
+O O B-object_type I-object_type 
+O O B-ns O B-city 
+O O O O O O B-timeRange I-timeRange O B-state 
+B-timeRange I-timeRange I-timeRange O B-movie_name I-movie_name I-movie_name 
+O O O O B-party_size_number O O B-sort B-cuisine B-restaurant_type B-ns I-ns O B-city 
+O O O B-ns I-ns O O O B-year 
+O O O B-playlist B-ns 
+O O B-music_item O B-playlist I-playlist I-playlist 
+O O B-object_name I-object_name I-object_name O B-rating_value B-rating_unit 
+O O B-year O 
+O B-movie_type O O B-ns 
+O B-ns I-ns O B-playlist I-playlist I-playlist I-playlist I-playlist O 
+O O B-object_type I-object_type O B-object_name I-object_name I-object_name 
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating B-rating_unit 
+O O B-object_type I-object_type 
+O O O O O O B-city I-city O B-timeRange I-timeRange I-timeRange 
+O B-timeRange I-timeRange O B-ns 
+O O B-sort B-music_item O B-ns I-ns I-ns O B-service 
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating 
+O B-ns O O O B-year 
+O O O O O B-city I-city B-state 
+O O B-music_item O B-ns I-ns 
+O O O O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange I-timeRange I-timeRange I-timeRange 
+O O O B-ns I-ns 
+O O B-object_part_of_series_type B-object_name I-object_name I-object_name O B-rating_value 
+O O O O B-party_size_number O O B-restaurant_type O B-city 
+O O B-restaurant_type O B-ns O B-party_size_number O 
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name 
+O O O O O B-restaurant_type O O B-served_dish O B-city O O O O B-party_size_number 
+O O B-object_name I-object_name I-object_name B-object_type I-object_type O O 
+O O B-restaurant_type O B-cuisine O B-timeRange I-timeRange I-timeRange 
+O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value 
+O O O O B-party_size_number O O B-restaurant_type O O B-served_dish I-served_dish 
+O O B-ns B-object_type B-rating_value B-rating_unit 
+O O B-object_name I-object_name O O B-rating_value 
+O B-movie_name I-movie_name O B-location_name I-location_name 
+O O O B-object_name I-object_name I-object_name 
+O O O O O O B-city B-state O B-timeRange I-timeRange I-timeRange 
+O O B-condition_temperature O B-city 
+O O O B-music_item O B-playlist_owner O O B-playlist I-playlist I-playlist 
+O O B-object_name I-object_name I-object_name I-object_name I-object_name B-object_type 
+O O O B-ns O B-playlist_owner O O B-playlist 
+O O B-object_type O B-ns B-movie_type I-movie_type 
+O O O B-timeRange O O B-restaurant_type O B-party_size_number O O B-served_dish 
+O O B-sort B-music_item I-music_item O B-ns O O B-year 
+O O B-music_item O B-playlist I-playlist 
+B-restaurant_name I-restaurant_name I-restaurant_name B-restaurant_type O B-timeRange I-timeRange O B-party_size_description I-party_size_description I-party_size_description I-party_size_description 
+O B-ns O B-playlist I-playlist 
+O O B-ns I-ns B-music_item O 
+O B-rating_value O O B-best_rating B-rating_unit O B-ns B-object_type 
+O O B-object_type I-object_type O B-movie_type I-movie_type B-ns I-ns 
+O O O B-sort O O B-ns I-ns I-ns 
+O B-music_item O B-playlist_owner B-playlist I-playlist O 
+O B-ns I-ns I-ns I-ns O B-playlist I-playlist 
+O B-ns B-object_type O B-rating_value 
+O O O O O B-music_item O O B-year 
+O O O B-sort B-music_item O B-ns I-ns O B-service I-service 
+O O B-object_type I-object_type O B-object_name I-object_name 
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value 
+O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist 
+O O O O O O O B-current_location I-current_location 
+O B-ns O O B-playlist I-playlist O 
+O O O O B-object_name I-object_name 
+O O O B-condition_temperature O O B-current_location I-current_location 
+O O B-ns I-ns B-music_item O O B-playlist I-playlist I-playlist I-playlist O 
+O O B-music_item O O B-playlist I-playlist O 
+O B-movie_name I-movie_name I-movie_name 
+O B-playlist O O O B-ns I-ns 
+O O B-genre O O B-service 
+O B-rating_value O O B-ns B-object_type 
+O B-ns I-ns O B-playlist_owner B-playlist I-playlist O 
+O O O O B-ns I-ns I-ns O O O O B-playlist I-playlist I-playlist 
+O O O B-movie_name I-movie_name I-movie_name O O O B-location_name I-location_name 
+O O B-ns B-object_part_of_series_type O B-rating_value 
+O B-ns I-ns B-music_item O B-playlist_owner B-playlist I-playlist 
+O O B-music_item B-ns I-ns I-ns O B-playlist I-playlist 
+O O O B-object_name I-object_name I-object_name 
+O B-track I-track I-track O B-ns I-ns 
+O B-track I-track I-track I-track O B-service 
+O O O O B-movie_name I-movie_name O 
+O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O 
+O O O B-movie_name I-movie_name O O 
+B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O O O O O B-best_rating O O O O B-rating_value 
+O B-playlist_owner B-playlist O O B-ns I-ns I-ns I-ns I-ns 
+O O B-ns I-ns 
+O O B-music_item O B-playlist 
+O O O B-movie_name I-movie_name I-movie_name O 
+O O O B-service 
+O O O B-ns I-ns B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O 
+O O O B-ns O B-timeRange I-timeRange O B-city I-city B-state 
+O O O B-object_type I-object_type B-object_name I-object_name I-object_name I-object_name 
+O O O O O O B-condition_temperature O B-city B-ns I-ns 
+O O B-ns O B-city 
+O O B-object_type I-object_type O B-object_name I-object_name I-object_name I-object_name 
+O O B-object_type I-object_type O B-object_name I-object_name I-object_name 
+O O B-music_item B-track I-track I-track O O O B-ns I-ns 
+O B-ns O O B-playlist I-playlist O 
+O O O O B-restaurant_name I-restaurant_name 
+O O O O O B-current_location I-current_location O O O B-timeRange I-timeRange I-timeRange 
+O O O O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name 
+O O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit O O O O O B-best_rating 
+O O O O O B-ns B-object_part_of_series_type O B-rating_value O O B-best_rating B-rating_unit 
+O B-ns I-ns O B-playlist I-playlist I-playlist 
+O O B-restaurant_type O O B-served_dish I-served_dish B-ns I-ns I-ns O B-party_size_number O 
+O B-ns O B-ns O B-ns 
+O O B-restaurant_type O B-party_size_number O O B-timeRange O O B-ns I-ns I-ns I-ns I-ns 
+O O B-object_type O B-movie_type O B-timeRange O B-location_name I-location_name I-location_name 
+O O B-ns O O B-state I-state I-state 
+O O B-object_type I-object_type 
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O O B-best_rating 
+O O O O O B-city 
+O O O B-music_item O B-year 
+O O B-object_name I-object_name I-object_name I-object_name 
+O O B-ns B-object_type B-rating_value B-rating_unit O O B-best_rating 
+O O B-movie_name I-movie_name I-movie_name O 
+O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist 
+O B-ns I-ns 
+O O O O O B-timeRange I-timeRange I-timeRange O B-city I-city O B-condition_temperature O 
+O O O O O B-restaurant_type I-restaurant_type O O O O O B-party_size_number O B-state 
+O O O B-service O B-ns I-ns 
+O B-ns I-ns O B-playlist_owner B-playlist O 
+O O B-object_type I-object_type B-object_name I-object_name I-object_name 
+O B-ns I-ns O B-playlist_owner I-playlist_owner B-playlist I-playlist 
+O O O O O O O O O B-city 
+O O O O O B-city B-state 
+O O B-movie_name I-movie_name I-movie_name B-location_name I-location_name 
+O O O O O O B-ns I-ns I-ns I-ns O B-timeRange I-timeRange I-timeRange 
+O B-movie_type I-movie_type O O B-ns I-ns I-ns 
+O O O O O O B-timeRange I-timeRange I-timeRange B-current_location 
+O O B-music_item B-track I-track I-track I-track 
+O B-ns I-ns B-music_item O 
+O O O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O 
+O B-timeRange O O O O B-current_location O O O B-condition_temperature 
+O O O O O B-object_name I-object_name B-object_type 
+O B-ns I-ns I-ns I-ns I-ns O O B-playlist I-playlist O 
+O O B-ns I-ns O O B-year 
+O O O B-ns I-ns I-ns I-ns I-ns O O B-sort I-sort O O B-cuisine I-cuisine B-restaurant_type 
+O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O 
+O O B-ns O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi 
+O B-ns B-object_type O B-rating_value 
+O O O O O O B-restaurant_type B-ns B-city O B-party_size_number O O O B-served_dish O B-timeRange 
+O O B-sort I-sort O O B-state B-timeRange I-timeRange I-timeRange O O B-restaurant_type 
+O O O B-location_name I-location_name O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name 
+O O B-music_item O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O 
+O O B-object_type O B-object_name I-object_name 
+O O O O B-party_size_number O B-timeRange O B-state 
+O O O O B-object_type I-object_type 
+O O B-restaurant_type O B-party_size_number O B-timeRange I-timeRange 
+O O O O O O B-movie_type O O O B-object_type I-object_type B-ns 
+O O O O O O B-party_size_number O O B-city B-state 
+O O B-object_type I-object_type O B-location_name I-location_name 
+O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name 
+O O B-sort B-music_item O O B-year 
+O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist O 
+O O B-condition_temperature O B-state 
+B-object_name I-object_name I-object_name O O O O B-rating_value O O B-best_rating B-rating_unit O O 
+O O O B-ns O B-state 
+O B-playlist I-playlist I-playlist 
+O O B-music_item O O B-year 
+O O O O O O B-state O B-timeRange I-timeRange I-timeRange 
+O O O B-ns O B-playlist I-playlist I-playlist 
+O O O O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-object_type 
+O O O O B-object_name 
+O B-ns I-ns I-ns I-ns I-ns O B-playlist_owner B-playlist I-playlist O 
+O O B-music_item O B-playlist I-playlist I-playlist 
+O O O O O O O B-restaurant_type B-ns I-ns O O O O B-party_size_number O O O B-cuisine 
+B-playlist I-playlist I-playlist I-playlist O O O B-ns I-ns I-ns O O 
+O O B-ns B-object_part_of_series_type B-rating_value B-rating_unit 
+O B-ns B-object_type B-rating_value O B-best_rating 
+O O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O O B-best_rating B-rating_unit 
+O O O O O O B-timeRange O B-restaurant_name I-restaurant_name I-restaurant_name 
+O O O O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name 
+O O B-service O B-ns I-ns B-music_item 
+O O O B-object_type I-object_type 
+O O O O O B-party_size_description I-party_size_description I-party_size_description I-party_size_description O B-ns O O B-ns B-restaurant_type 
+O O B-sort I-sort B-music_item O B-ns I-ns O B-service I-service 
+O O O B-object_name B-object_type 
+O O B-ns I-ns B-music_item O O B-playlist I-playlist O 
+O O O B-condition_temperature O B-timeRange I-timeRange I-timeRange O B-state O B-ns 
+O O O O O B-object_type I-object_type O B-object_name I-object_name I-object_name 
+O O O O O O O O O B-restaurant_type O O B-served_dish B-ns I-ns I-ns I-ns O B-ns I-ns 
+O O O O O O B-city 
+O O B-music_item O B-playlist_owner B-playlist I-playlist O 
+O B-ns B-object_type B-rating_value O O B-best_rating 
+O O O B-object_name 
+O O B-object_type O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-ns B-object_location_type I-object_location_type 
+O O O O O O B-city I-city B-ns O B-timeRange I-timeRange I-timeRange 
+O O O O O O B-state 
+O O B-sort B-music_item O B-year 
+O B-ns I-ns O O O B-service 
+O O O O B-object_type B-object_name I-object_name I-object_name I-object_name 
+O O O O O B-ns O B-timeRange O 
+O B-ns I-ns B-music_item O B-playlist I-playlist I-playlist I-playlist O 
+O B-object_name I-object_name I-object_name I-object_name 
+O B-music_item B-ns I-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist O 
+O O O O O O B-object_name 
+O O O O O B-city I-city 
+O O B-year O 
+O O B-object_type I-object_type O B-object_name I-object_name 
+O B-service O O B-ns I-ns B-track I-track I-track I-track I-track 
+O O O O O B-object_type I-object_type O B-location_name I-location_name 
+O O B-ns I-ns I-ns I-ns O O B-playlist_owner B-playlist I-playlist I-playlist O 
+O O B-sort B-music_item O B-ns I-ns O B-service I-service 
+O O O B-object_type I-object_type O B-object_name I-object_name 
+O O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name O B-city B-state O B-timeRange I-timeRange I-timeRange 
+O O B-object_type O B-object_name I-object_name I-object_name I-object_name 
+O B-ns I-ns I-ns O B-music_item O O O B-playlist_owner B-playlist I-playlist O 
+O B-movie_type I-movie_type O B-ns B-object_location_type I-object_location_type 
+O O B-object_type B-object_name I-object_name I-object_name 
+O O O O B-movie_name I-movie_name I-movie_name O O O B-timeRange I-timeRange I-timeRange I-timeRange 
+O O O O B-timeRange O B-ns I-ns I-ns I-ns I-ns O O B-restaurant_type 
+O O O O B-ns I-ns O B-sort I-sort 
+O B-movie_type O O O B-ns B-object_location_type 
+O O O O O O B-city I-city I-city O B-ns 
+O O O O O B-object_name O O B-object_type O 
+O O B-playlist_owner B-playlist I-playlist I-playlist O O B-ns I-ns 
+B-restaurant_type I-restaurant_type O B-ns O B-party_size_number 
+O O O B-object_type I-object_type 
+O O O O B-party_size_description I-party_size_description I-party_size_description I-party_size_description O B-restaurant_name I-restaurant_name I-restaurant_name O B-ns I-ns 
+O B-object_name I-object_name I-object_name I-object_name 
+O O B-object_type I-object_type O B-movie_type B-ns I-ns I-ns 
+O O O O O O B-movie_name O B-object_location_type I-object_location_type O B-timeRange I-timeRange 
+O B-album I-album I-album I-album O B-ns I-ns 
+O O O O O O B-city B-state 
+O O B-genre O 
+O O B-ns B-object_type B-rating_value O O B-best_rating 
+O B-ns B-object_type B-rating_value B-rating_unit 
+O O O O O B-timeRange O O B-current_location I-current_location 
+O B-year O O B-ns I-ns I-ns 
+O O O O O B-ns I-ns B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi O B-timeRange O 
+O O O B-ns I-ns B-music_item O 
+O B-track I-track O B-ns I-ns 
+O O B-object_type O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O B-ns B-object_location_type B-timeRange I-timeRange I-timeRange 
+O O B-object_name I-object_name I-object_name I-object_name I-object_name B-object_type 
+O O O O O B-ns B-object_type B-rating_value O O B-best_rating B-rating_unit 
+O O B-object_type I-object_type O B-movie_type I-movie_type O B-timeRange I-timeRange I-timeRange I-timeRange B-ns I-ns I-ns 
+O O B-object_type B-object_name I-object_name I-object_name I-object_name 
+O O B-music_item O O B-playlist I-playlist O 
+O O O B-ns B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name O B-timeRange I-timeRange 
+O O O O O B-ns O B-timeRange 
+O O O B-ns I-ns I-ns I-ns O O O O B-playlist I-playlist 
+O B-timeRange I-timeRange I-timeRange O O O O O O B-state O O O B-ns I-ns O O 
+O O O O O B-ns B-timeRange I-timeRange I-timeRange O O O B-condition_temperature 
+O O B-music_item O B-ns I-ns O B-playlist I-playlist 
+O O B-music_item O B-ns I-ns 
+O B-music_item O B-playlist 
+O O O O O O O O B-ns 
+O O O B-service 
+O B-ns I-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist O 
+O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O O B-restaurant_type O B-party_size_number B-ns B-state O O O B-served_dish I-served_dish I-served_dish 
+O O O O O B-restaurant_type I-restaurant_type O B-state 
+B-timeRange I-timeRange I-timeRange I-timeRange B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description O O O B-cuisine O O O B-restaurant_type O B-ns B-state 
+O O B-object_type I-object_type O B-object_name 
+O B-movie_type I-movie_type B-ns I-ns O O B-object_type I-object_type 
+O O O O B-party_size_number O O B-facility B-restaurant_type I-restaurant_type O B-ns 
+O O O B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit O O O O O B-best_rating 
+O O O O O B-timeRange I-timeRange I-timeRange O O B-restaurant_type O O B-served_dish 
+O B-object_name I-object_name I-object_name I-object_name I-object_name 
+O O O O O B-party_size_number O O B-restaurant_type O B-state I-state 
+O O O B-movie_name I-movie_name I-movie_name O 
+O O O O B-ns O B-city I-city B-ns 
+O O B-sort B-music_item O O B-ns 
+O O B-movie_type I-movie_type O O B-location_name I-location_name I-location_name 
+O O B-ns B-object_type O B-rating_value 
+O O O O B-ns I-ns O B-playlist_owner O O B-playlist 
+O B-ns B-object_type O B-rating_value B-rating_unit 
+O O O O O O B-city I-city B-state O B-timeRange I-timeRange 
+O O O O O B-object_type O B-object_name I-object_name 
+O O O B-ns I-ns O B-playlist_owner B-playlist I-playlist O 
+O B-music_item O B-playlist_owner O B-playlist I-playlist 
+O B-movie_type O O O B-ns I-ns I-ns 
+O O O B-movie_type O O O B-location_name I-location_name 
+O B-ns I-ns I-ns I-ns I-ns I-ns O O B-playlist I-playlist O 
+O B-object_type I-object_type 
+O O B-object_type B-object_name I-object_name I-object_name I-object_name O B-rating_value 
+O B-ns I-ns O B-album I-album I-album I-album 
+O O B-music_item O O B-playlist I-playlist I-playlist O 
+O O O O B-music_item O B-ns I-ns O B-playlist_owner O O B-playlist I-playlist I-playlist 
+O B-object_type I-object_type 
+O O B-object_type I-object_type O O 
+O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O 
+O O O B-condition_temperature B-current_location B-timeRange I-timeRange I-timeRange 
+O O B-ns 
+O O O O B-object_name I-object_name I-object_name O B-rating_value 
+O O O O O B-object_type B-object_name I-object_name 
+O B-state O O O B-condition_temperature O B-timeRange I-timeRange 
+O B-object_name I-object_name I-object_name B-rating_value B-rating_unit 
+O O B-ns B-object_type B-rating_value O B-best_rating B-rating_unit 
+O O O O O B-party_size_number O O B-restaurant_type O B-cuisine O O B-state O B-timeRange I-timeRange I-timeRange I-timeRange 
+O B-object_name I-object_name I-object_name I-object_name I-object_name O B-object_type 
+O O O O B-sort B-music_item O B-year 
+O O B-cuisine B-restaurant_type O B-party_size_description I-party_size_description I-party_size_description I-party_size_description 
+O O O O O O B-timeRange I-timeRange I-timeRange I-timeRange O B-city 
+O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-object_type 
+O B-playlist I-playlist 
+O O O B-city O O B-state 
+O B-movie_name I-movie_name 
+O O O B-ns B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name 
+O O O O B-object_type I-object_type O B-location_name I-location_name 
+O O O O O B-party_size_number O O B-sort B-restaurant_type B-timeRange I-timeRange I-timeRange I-timeRange O B-city 
+O B-ns I-ns O B-service 
+O B-object_name I-object_name I-object_name I-object_name O B-object_type 
+O O B-object_name I-object_name I-object_name I-object_name I-object_name B-object_type 
+O O B-party_size_number O O B-sort B-restaurant_type I-restaurant_type 
+O O O O O B-party_size_number O O O B-ns B-state B-restaurant_type B-timeRange I-timeRange I-timeRange I-timeRange 
+O O B-ns B-timeRange O B-state 
+O O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name 
+O B-object_type I-object_type 
+O B-object_type I-object_type O B-location_name I-location_name I-location_name 
+O O O O O B-state O B-timeRange 
+O O O B-music_item O B-playlist_owner B-playlist I-playlist O 
+O O O B-restaurant_type O 
+O B-object_name I-object_name I-object_name I-object_name O B-object_type 
+O B-album I-album I-album I-album O B-ns I-ns 
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-object_type 
+O B-object_type I-object_type O B-movie_type O B-ns I-ns 
+O O O O O B-object_type I-object_type O O B-object_name I-object_name I-object_name I-object_name I-object_name 
+O B-ns I-ns O B-playlist_owner B-playlist I-playlist O 
+O O B-ns I-ns O O O B-year 
+O O B-music_item O B-playlist_owner B-playlist I-playlist O 
+O B-music_item O B-playlist I-playlist I-playlist O 
+O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name B-timeRange I-timeRange I-timeRange 
+O B-rating_value O O B-best_rating B-rating_unit O O B-ns B-object_type 
+O O O O O O B-restaurant_type O B-party_size_number O B-timeRange I-timeRange I-timeRange I-timeRange O B-city 
+O O B-service I-service O O O B-year B-music_item O B-ns 
+O O O B-ns B-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name 
+O O O O O O O B-object_type O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name 
+O B-movie_type O B-ns I-ns 
+O O B-restaurant_type B-ns O B-ns 
+O B-object_name I-object_name I-object_name O B-object_type 
+O O B-track I-track I-track 
+O O B-object_type I-object_type O B-object_name 
+O B-movie_name I-movie_name I-movie_name I-movie_name O O B-location_name I-location_name I-location_name 
+O O B-ns B-object_type B-rating_value B-rating_unit 
+O O B-timeRange I-timeRange B-current_location 
+O B-movie_type I-movie_type O O O O B-ns B-object_location_type I-object_location_type 
+O B-ns B-object_type B-rating_value O B-best_rating B-rating_unit 
+O O O O O B-movie_name I-movie_name I-movie_name I-movie_name 
+B-object_name O O O O O O O B-rating_value O O B-best_rating 
+O O O B-object_type O B-movie_type B-ns I-ns I-ns 
+O O O O B-party_size_number O O B-ns I-ns I-ns I-ns 
+O O O B-object_name I-object_name I-object_name I-object_name O O O O B-best_rating O O O O B-rating_value 
+O B-movie_type I-movie_type O O B-ns 
+O O O O B-ns B-current_location O B-timeRange 
+O O O O O B-object_part_of_series_type B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit 
+O O O O O O O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O B-location_name I-location_name 
+O B-album I-album I-album I-album O B-ns I-ns 
+O O O O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name B-ns O B-ns 
+O B-ns O B-playlist_owner B-playlist I-playlist I-playlist O 
+O O O B-object_name I-object_name I-object_name B-object_type 
+O O B-restaurant_type O B-state O O B-served_dish 
+O O O O B-ns B-object_type B-rating_value B-rating_unit O O O O O B-best_rating 
+O O O O O B-cuisine B-restaurant_type O B-state O B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description 
+O B-ns O O O O O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi 
+O B-music_item O B-playlist I-playlist O 
+O O O O O B-sort B-cuisine B-restaurant_type O B-ns O O O B-timeRange 
+O O O O O B-party_size_number 
+O O B-music_item O B-playlist_owner B-playlist O 
+O B-ns B-object_type O B-rating_value 
+O O O O O O B-timeRange I-timeRange O O O B-ns B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi 
+O O O O O B-city O B-timeRange I-timeRange I-timeRange O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name 
+O O O O O B-party_size_number O B-restaurant_name I-restaurant_name O B-ns 
+O O O O O B-object_type B-object_name I-object_name I-object_name 
+O O O O O O O O B-party_size_number O B-timeRange 
+O O O O O O B-party_size_number O B-timeRange I-timeRange I-timeRange O O O O B-state 
+O O O B-restaurant_type O B-party_size_number O B-city 
+O O O O O O B-party_size_number B-timeRange I-timeRange I-timeRange O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name 
+O O B-object_location_type I-object_location_type O B-timeRange O B-movie_name I-movie_name I-movie_name I-movie_name 
+O O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-object_type I-object_type 
+O O O O B-ns O B-city B-timeRange I-timeRange I-timeRange I-timeRange 
+O B-playlist_owner O B-playlist O O O B-ns I-ns I-ns 
+O O O B-object_name I-object_name B-object_type I-object_type 
+O B-object_type I-object_type 
+O B-playlist O 
+O O O B-movie_type I-movie_type O O O O O B-ns B-object_location_type I-object_location_type 
+O O O O O O B-object_type B-object_name I-object_name 
+O O O B-movie_name I-movie_name O O O B-object_location_type I-object_location_type 
+O O B-object_type B-object_name I-object_name 
+O O O O O B-condition_temperature O B-geographic_poi I-geographic_poi I-geographic_poi I-geographic_poi 
+O O B-music_item O B-playlist_owner I-playlist_owner B-playlist I-playlist O 
+O O B-music_item O B-ns I-ns I-ns 
+O O B-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O B-best_rating 
+O O O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name O O O B-object_location_type I-object_location_type 
+O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O 
+O O O O O B-movie_name I-movie_name I-movie_name 
+O O O B-location_name I-location_name O O B-movie_name I-movie_name 
+O O O B-ns O B-geographic_poi I-geographic_poi I-geographic_poi 
+O B-ns I-ns O O B-service O O B-sort 
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating 
+O O O B-object_type I-object_type B-object_name I-object_name I-object_name 
+O O O O O B-object_type I-object_type O B-object_name 
+O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name 
+O O B-object_name I-object_name I-object_name B-rating_value B-rating_unit O O B-best_rating 
+O B-playlist I-playlist I-playlist I-playlist I-playlist 
+O B-ns O B-playlist_owner B-playlist I-playlist O 
+O B-ns I-ns I-ns O B-playlist_owner B-playlist I-playlist O 
+O O O B-movie_name I-movie_name I-movie_name O O B-location_name I-location_name 
+O B-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O 
+O B-object_part_of_series_type B-object_name I-object_name O B-rating_value B-rating_unit O O 
+O B-object_name I-object_name I-object_name I-object_name 
+O O O B-ns B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name I-movie_name 
+O B-music_item O O B-ns I-ns O B-service O O B-sort 
+O O B-music_item B-track I-track I-track 
+O O B-sort B-restaurant_type O B-cuisine O 
+O B-movie_type I-movie_type O O B-ns I-ns I-ns O O 
+O O O O O O B-object_type B-object_name I-object_name I-object_name 
+O O O O O O O B-sort B-restaurant_type 
+O O O O O B-condition_temperature O B-ns I-ns O B-timeRange I-timeRange 
+O O O O O B-restaurant_type O B-party_size_number B-ns B-city 
+O B-object_name I-object_name I-object_name B-rating_value O B-best_rating B-rating_unit 
+O B-object_type B-object_name I-object_name I-object_name O O B-rating_value B-rating_unit O O O 
+O O O O O B-restaurant_type O B-city B-state 
+O O O O B-object_name I-object_name I-object_name O B-object_type I-object_type 
+O O O O O O B-restaurant_type I-restaurant_type O O B-served_dish 
+O O B-music_item O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O 
+O O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O 
+O O O O O B-ns 
+O B-ns B-object_type O B-rating_value 
+O O B-ns I-ns I-ns B-music_item O B-playlist_owner O O B-playlist I-playlist I-playlist 
+O O O O B-ns B-timeRange I-timeRange O B-state 
+O B-movie_name I-movie_name I-movie_name I-movie_name O O O B-ns B-object_location_type O B-timeRange 
+O O O O O O B-movie_type I-movie_type B-ns I-ns I-ns 
+O O B-object_type I-object_type B-object_name I-object_name I-object_name 
+O O O O O B-ns I-ns I-ns O B-ns O O O O O B-party_size_number 
+O O O O O O B-playlist I-playlist I-playlist O B-playlist_owner O B-music_item 
+O O O O O B-restaurant_type O B-party_size_number O B-city 
+O O O O B-object_type I-object_type B-object_name I-object_name 
+O O B-ns I-ns B-music_item I-music_item O O B-year O B-service 
+O O O O O O O B-sort B-restaurant_type O B-ns O O O O B-party_size_number 
+O O O O O O B-current_location I-current_location O B-timeRange I-timeRange 
+O B-object_name I-object_name B-rating_value B-rating_unit O O B-best_rating 
+B-timeRange I-timeRange I-timeRange O O O B-ns O B-geographic_poi I-geographic_poi I-geographic_poi 
+O B-condition_temperature O O O O B-state O B-timeRange I-timeRange 
+O O O O O B-ns O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist 
+O O O B-condition_temperature O B-city B-state 
+O B-ns O B-playlist_owner I-playlist_owner B-playlist I-playlist O 
+O O O O O O B-ns O B-timeRange I-timeRange 
+O B-object_type I-object_type O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name 
+O B-ns I-ns O B-service O O O B-music_item O O O B-sort 
+O O B-ns I-ns O B-playlist_owner O B-playlist I-playlist I-playlist 
+O O O O B-state 
+O O O B-object_part_of_series_type B-object_name I-object_name I-object_name I-object_name O B-rating_value O B-best_rating B-rating_unit 
+O B-ns O B-playlist I-playlist 
+O O O B-ns O O B-city B-ns 
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating 
+O O B-ns O B-city 
+O O O B-ns I-ns B-music_item 
+O O B-object_type I-object_type B-object_name I-object_name I-object_name 
+O O O O O B-ns I-ns B-music_item I-music_item 
+O O O O O B-ns O B-current_location B-timeRange I-timeRange I-timeRange I-timeRange 
+O O O O B-restaurant_name I-restaurant_name I-restaurant_name O B-party_size_number O B-timeRange I-timeRange I-timeRange 
+O O B-object_type O B-object_name I-object_name I-object_name I-object_name I-object_name 
+O B-object_name I-object_name B-rating_value O O B-best_rating 
+O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O 
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name 
+O O B-year B-music_item I-music_item O B-service 
+O O B-state O O B-timeRange 
+O O B-music_item O B-ns I-ns 
+O O O B-ns O B-ns 
+O O O O O B-timeRange I-timeRange I-timeRange O B-city B-ns 
+O O O O O O O O B-music_item O B-playlist_owner B-playlist I-playlist O 
+O O B-object_name I-object_name B-object_type 
+O O O B-object_type I-object_type O B-location_name I-location_name 
+O O O B-object_type I-object_type 
+O B-ns I-ns I-ns O B-playlist_owner I-playlist_owner B-playlist I-playlist O 
+O B-music_item O B-ns I-ns I-ns 
+O B-rating_value B-rating_unit O B-ns B-object_type 
+O B-ns I-ns I-ns I-ns O B-playlist_owner B-playlist I-playlist O 
+O B-ns I-ns I-ns I-ns O B-playlist_owner B-playlist I-playlist O 
+O O O B-timeRange O O B-state I-state 
+O B-ns O B-playlist_owner B-playlist I-playlist O 
+O O O B-object_type O O O B-object_name 
+O B-ns I-ns I-ns O B-playlist I-playlist 
+O O O O O B-movie_name I-movie_name I-movie_name O O B-object_location_type I-object_location_type 
+O O B-ns I-ns O B-playlist_owner O B-playlist I-playlist I-playlist 
+O B-ns I-ns B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist 
+O O B-music_item O B-ns O B-playlist_owner B-playlist I-playlist O 
+O O O O B-ns B-timeRange O B-city 
+O B-ns B-object_type O B-rating_value O O B-best_rating 
+O O B-object_type I-object_type O B-movie_type I-movie_type B-ns O B-timeRange I-timeRange 
+O B-ns I-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O 
+O B-ns B-object_part_of_series_type O B-rating_value 
+O O O O O B-restaurant_type O O B-facility O O O O O O B-party_size_number 
+O O O B-movie_name I-movie_name O 
+O O B-restaurant_name I-restaurant_name O B-city B-state 
+O B-movie_type O O B-location_name I-location_name 
+O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating 
+O O O O O B-movie_name I-movie_name 
+O O O O B-service 
+O O O O B-object_name I-object_name I-object_name B-rating_value O O B-best_rating 
+O B-music_item O B-playlist_owner B-playlist I-playlist O 
+O O O O O O B-ns I-ns 
+O O O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name 
+O O B-object_name I-object_name I-object_name I-object_name 
+O B-ns I-ns I-ns O B-playlist_owner B-playlist I-playlist O 
+O B-ns I-ns O B-playlist I-playlist 
+O O O O B-ns I-ns B-restaurant_type B-ns O B-party_size_number B-timeRange I-timeRange I-timeRange I-timeRange 
+O O O O O B-object_type O B-object_name I-object_name 
+O O B-movie_type O B-location_name I-location_name 
+O O B-ns B-object_part_of_series_type I-object_part_of_series_type B-rating_value O O B-best_rating B-rating_unit 
+O O O O B-object_type I-object_type 
+O O O O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O 
+O O B-genre O B-service 
+O O O B-condition_temperature O O B-ns I-ns I-ns 
+O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name I-object_name 
+O B-rating_value O O B-object_name I-object_name I-object_name 
+O O O B-object_type I-object_type B-object_name I-object_name I-object_name I-object_name 
+O B-movie_type O O O O B-ns B-object_location_type 
+O O B-music_item O B-ns I-ns O B-playlist_owner I-playlist_owner B-playlist I-playlist I-playlist I-playlist O 
+O O O O O B-object_type I-object_type B-object_name I-object_name I-object_name I-object_name 
+O O O O O B-party_size_number O O B-sort I-sort B-restaurant_type O B-ns 
+O O O O B-ns O B-city 
+O O B-music_item O B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist O 
+O O O O B-movie_type O O O B-ns B-object_location_type I-object_location_type 
+O O O O O B-track I-track I-track O B-ns I-ns 
+O O O O O O B-city 
+O O O O B-city O B-timeRange I-timeRange O O B-sort I-sort B-cuisine B-restaurant_type 
+O O O B-year B-music_item I-music_item 
+O O O O B-object_name I-object_name I-object_name I-object_name 
+O O O O B-ns I-ns O B-music_item O O O B-playlist I-playlist I-playlist O 
+O O O O B-object_type I-object_type O B-location_name I-location_name 
+O O O O O B-movie_name I-movie_name I-movie_name I-movie_name 
+O O O O O B-movie_name I-movie_name 
+O O O B-object_type B-object_name I-object_name I-object_name 
+O B-movie_name I-movie_name I-movie_name I-movie_name O 
+O O O O B-object_type I-object_type 
+O B-object_name I-object_name I-object_name B-rating_value 
+O O O O O B-music_item O O B-playlist I-playlist I-playlist O 
+O O B-music_item O B-playlist_owner B-playlist I-playlist O 
+O O B-music_item O B-ns I-ns O B-service 
+O O B-ns O O B-city I-city 
+O B-rating_value B-rating_unit O B-object_name I-object_name I-object_name 
+O O B-music_item O B-playlist_owner B-playlist I-playlist O 
+O O O O B-object_type I-object_type 
+O O O O O B-movie_name 
+O B-object_type I-object_type O B-location_name I-location_name 
+O B-movie_type O O B-ns I-ns I-ns 
+O O O B-playlist O B-service 
+O O O O O O O B-timeRange I-timeRange I-timeRange O B-state 
+O B-movie_type I-movie_type O O B-ns I-ns I-ns O O 
+O O O O B-restaurant_name I-restaurant_name I-restaurant_name I-restaurant_name O O B-ns B-state 
+O O O O O B-object_name I-object_name I-object_name I-object_name I-object_name I-object_name B-object_type 
+O B-ns I-ns O B-playlist I-playlist I-playlist I-playlist I-playlist 
+O O B-music_item B-album I-album 
+O O O O O B-object_name I-object_name I-object_name I-object_name B-object_type I-object_type 
+O O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O 
+O O O O O B-object_type O B-object_name I-object_name I-object_name I-object_name 
+O B-object_type I-object_type O B-location_name I-location_name 
+O O O B-condition_temperature O B-timeRange O B-city B-ns 
+O O O O O B-city I-city 
+O B-object_name I-object_name B-object_type 
+O O O O O B-restaurant_name I-restaurant_name O B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description O B-timeRange I-timeRange 
+O O O B-state O O B-city I-city 
+O O O O O B-sort B-restaurant_type B-timeRange I-timeRange O B-party_size_number B-ns I-ns 
+O O O B-condition_temperature O O B-current_location I-current_location B-timeRange I-timeRange I-timeRange 
+O O B-object_name I-object_name 
+O O O O O O B-ns B-state B-timeRange I-timeRange I-timeRange I-timeRange 
+O O O B-condition_temperature O B-timeRange O B-city I-city B-state 
+O O O O O B-timeRange I-timeRange O O B-ns 
+O B-music_item O B-playlist_owner B-playlist I-playlist I-playlist O 
+O O O O O O B-sort B-restaurant_type I-restaurant_type O B-cuisine O B-ns I-ns I-ns I-ns O B-state O B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description 
+O O O O O O B-object_type B-object_name I-object_name I-object_name I-object_name 
+O B-ns B-object_part_of_series_type B-rating_value O O B-best_rating 
+O B-object_name I-object_name I-object_name I-object_name I-object_name 
+O O B-restaurant_type B-ns I-ns I-ns I-ns I-ns I-ns I-ns O B-served_dish B-timeRange I-timeRange I-timeRange I-timeRange 
+O O B-music_item O B-playlist I-playlist I-playlist 
+O O O B-object_type I-object_type B-timeRange 
+O O O O O O B-sort I-sort B-restaurant_type O B-cuisine B-ns B-state B-timeRange I-timeRange 
+O B-movie_name I-movie_name I-movie_name I-movie_name I-movie_name 
+O O B-condition_temperature O B-timeRange I-timeRange I-timeRange O B-city B-ns I-ns 
+O O O O B-party_size_number O O O 
+O O B-year B-music_item 
+O O O B-object_type O B-movie_name I-movie_name I-movie_name I-movie_name O B-object_location_type B-ns 
+O O B-sort I-sort B-music_item O O B-year O B-ns I-ns 
+O O O B-object_type O B-object_name I-object_name I-object_name 
+O O O O O B-ns I-ns O B-party_size_number O B-restaurant_name I-restaurant_name 
+O O O O O O B-restaurant_type O B-city I-city B-state 
+O O O B-condition_temperature B-ns I-ns I-ns I-ns O B-state 
+O O B-ns B-object_type B-rating_value O O B-best_rating B-rating_unit 
+O O O O O B-condition_temperature B-ns B-geographic_poi I-geographic_poi I-geographic_poi 
+O O B-ns B-object_part_of_series_type O O B-rating_value O B-best_rating B-rating_unit 
+O O O O O B-object_type I-object_type B-object_name I-object_name I-object_name I-object_name 
+O O B-ns B-object_type O B-rating_value 
+O B-ns B-object_type B-rating_value O B-best_rating B-rating_unit 
+O O O O O B-condition_temperature O B-timeRange I-timeRange O B-state 
+O O O O O B-city 
+O B-ns I-ns I-ns O B-playlist I-playlist I-playlist 
+O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange I-timeRange 
+O O B-ns I-ns B-music_item O O B-playlist I-playlist O 
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating B-rating_unit 
+O O O O B-object_name I-object_name 
+B-ns B-object_type O O B-rating_value 
+O O O B-object_type I-object_type 
+O B-music_item O B-playlist_owner B-playlist I-playlist 
+O O B-object_type B-object_name 
+O B-object_name I-object_name I-object_name B-object_type 
+O B-ns I-ns B-music_item B-album I-album I-album 
+O O O O O B-restaurant_type B-ns I-ns I-ns O B-state 
+O O O B-object_name I-object_name I-object_name B-object_type 
+O B-object_type I-object_type O B-location_name I-location_name I-location_name 
+O B-ns I-ns O B-playlist_owner I-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist I-playlist 
+O B-ns B-object_type O B-rating_value 
+O O B-object_type B-object_name I-object_name 
+O B-object_name I-object_name I-object_name I-object_name O B-rating_value 
+O O B-year B-music_item O B-ns I-ns 
+O O B-object_type O B-object_name I-object_name I-object_name I-object_name 
+O B-album I-album I-album 
+O O O O B-ns I-ns O O O O B-year 
+O O B-restaurant_type O B-city 
+O B-object_name I-object_name I-object_name I-object_name B-rating_value O B-best_rating 
+O B-genre I-genre O 
+O O O B-object_type O B-object_name I-object_name I-object_name I-object_name I-object_name 
+O O O B-ns O O B-ns O B-state 
+O O O O O O O B-facility B-restaurant_type O O O O B-party_size_number 
+O O B-movie_name I-movie_name I-movie_name O 
+O B-ns O B-album 
+O B-music_item O B-playlist I-playlist 
+O B-ns B-object_type B-rating_value B-rating_unit 
+O O O O B-ns B-object_type I-object_type B-rating_value O O B-best_rating B-rating_unit 
+O O B-ns I-ns O O O O O O B-sort 
+O O O B-ns O O B-city B-state O B-timeRange I-timeRange 
+O B-ns I-ns O B-playlist I-playlist 
+O O O B-movie_type B-object_type I-object_type B-ns 
+O O O O O O O O B-year 
+O O O O B-party_size_number O B-timeRange I-timeRange 
+O O O O B-object_name I-object_name I-object_name I-object_name 
+O O O B-ns I-ns O O B-album I-album I-album I-album I-album B-music_item O B-service I-service 
+O O O B-ns O B-city I-city 
+O O O O B-party_size_description I-party_size_description I-party_size_description I-party_size_description O O B-restaurant_type O B-timeRange 
+O O B-ns I-ns B-music_item O B-playlist_owner B-playlist I-playlist 
+O O O O O B-music_item O B-playlist I-playlist 
+O B-object_name I-object_name I-object_name I-object_name B-rating_value B-rating_unit 
+O O B-restaurant_type O O B-cuisine O B-party_size_number O B-timeRange 
+O O B-object_type I-object_type B-object_name I-object_name I-object_name 
+O B-object_name I-object_name B-object_type 
+O O O B-condition_temperature O B-city I-city 
+O O O B-timeRange B-ns I-ns I-ns I-ns O B-state I-state 
+O O B-party_size_number O O B-city 
+O O O O O O O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist I-playlist O 
+O B-ns I-ns I-ns I-ns O B-playlist I-playlist I-playlist I-playlist 
+O O O O B-movie_name I-movie_name I-movie_name I-movie_name 
+O B-ns B-object_type O O B-rating_value O 
+O B-ns B-music_item O B-playlist I-playlist I-playlist 
+O O B-object_name I-object_name I-object_name I-object_name I-object_name 
+O O O O B-music_item O O O B-playlist I-playlist I-playlist 
+O O O O O O B-geographic_poi I-geographic_poi I-geographic_poi B-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange I-timeRange 
+O O O B-ns I-ns I-ns O B-music_item O O B-playlist I-playlist O 
+O O O O B-ns I-ns O B-playlist I-playlist I-playlist 
+O O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name 
+O O O B-ns B-object_location_type I-object_location_type O B-movie_name I-movie_name I-movie_name I-movie_name 
+O O B-ns I-ns B-music_item O B-playlist I-playlist I-playlist I-playlist 
+O O O O B-music_item O B-ns I-ns O B-playlist_owner I-playlist_owner B-playlist I-playlist I-playlist O 
+O O B-music_item B-album O B-ns I-ns I-ns 
+O B-ns I-ns O B-playlist I-playlist 
+O O O O B-music_item O O B-year 
+O B-object_name I-object_name I-object_name 
+O O O O O B-object_type O B-object_name I-object_name 
+O B-object_name I-object_name I-object_name 
+O O B-music_item O B-playlist_owner B-playlist O 
+O O O O B-ns O B-city I-city B-state 
+O O B-object_type I-object_type O B-location_name I-location_name I-location_name 
+O O O O O B-object_type B-object_name I-object_name 
+O O O O O B-party_size_number O B-restaurant_name I-restaurant_name I-restaurant_name O B-ns I-ns 
+O O B-object_type O B-object_name I-object_name B-rating_value B-rating_unit 
+O O B-restaurant_type O B-party_size_number O O B-timeRange I-timeRange 
+O O B-city B-state 
+O O O O O B-ns O B-timeRange I-timeRange O B-city I-city B-ns 
+O O O O O O O O O B-ns O B-party_size_description I-party_size_description I-party_size_description I-party_size_description I-party_size_description 
+O O B-object_type I-object_type O B-movie_type I-movie_type B-ns I-ns O B-timeRange I-timeRange I-timeRange 
+O O O B-object_type B-object_name I-object_name I-object_name I-object_name I-object_name O B-rating_value O 
+O O B-genre I-genre 
+O O B-playlist_owner O B-playlist I-playlist I-playlist O B-music_item 
+O O B-object_type I-object_type O B-object_name I-object_name 
+O B-object_name I-object_name I-object_name I-object_name 
+O B-ns B-object_type B-rating_value B-rating_unit O O B-best_rating 
+O B-ns I-ns O B-playlist_owner B-playlist I-playlist I-playlist I-playlist O 
+O B-ns B-object_type B-rating_value O O B-best_rating 
