@@ -6,10 +6,12 @@ The Benchmark for Discovering Unknown Slot Types in the Task-Oriented Dialogue S
 
 An example of Novel Slot Detection in thetask-oriented dialogue system:
 
+![](https://github.com/ChestnutWYN/ACL2021-Novel-Slot-Detection/blob/main/fig/intro.png)
+
 The architecture of the proposed model:
 
+![](https://github.com/ChestnutWYN/ACL2021-Novel-Slot-Detection/blob/main/fig/model.jpg)
 
-![](https://github.com/pris-nlp/.../fig/model.jpg)
 
 ## Dependencies
 
@@ -32,7 +34,7 @@ python --mode train --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output -
 python --mode test --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --batch_size 256 --cuda 1 
 
 ```
-#### 1. Both (only):
+#### 1. Train and predict (Both):
 ```
 python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --batch_size 256 --cuda 1 
 
