@@ -32,12 +32,10 @@ python --mode train --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output -
 #### 2. Predict (only):
 ```
 python --mode test --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --batch_size 256 --cuda 1 
-
 ```
 #### 1. Train and predict (Both):
 ```
 python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --batch_size 256 --cuda 1 
-
 ```
 ## Parameters
 - `mode`, optional, Specify running mode, only `train`,only`test` or `both`.
@@ -46,7 +44,7 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
 - `output_dir`, default="./output"
 - `batch_size`, default=256
 - `cuda`, default=1
-## Result
+## ResultS
 
 1. IND and NSD results with different proportions (5%, 15% and 30%) of classes are treated as unknown
 slots on Snips-NSD. * indicates the significant improvement over all baselines (p < 0.05).
@@ -329,4 +327,6 @@ slots on ATIS-NSD. * indicates the significant improvement over all baselines (p
 Q：**There are two training objectives mentioned in Section 4.1: multiple classifier and binary classifier. But if we use binary classifier, how can we get the ind category? And how to get the results of MSP + binary and GDA + binary?**
 
 A：As we mention in Section4.1—— "In the test stage, for in-domain prediction, we both use the multiple classifier. While, for novel slot detection, we use the multiple classifier or the binary classifier, or both of them". It means binary classifier won't be used for gaining the fine in-domain labels, but for detecting whether a token is a novel slot, and if yes, we will override the fine in-domain labels gained by multiple classifier.
+
+
 
