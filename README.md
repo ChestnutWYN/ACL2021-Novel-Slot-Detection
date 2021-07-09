@@ -176,6 +176,7 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
             <td>55.24*</td>
         </tr>
 </table>
+
 ## Citation
 ```
 @article{Wu2021NovelSD,
@@ -186,6 +187,7 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
   volume={abs/2105.14313}
 }
 ```
+
 ## Issue
 Q：**There are two training objectives mentioned in Section 4.1: multiple classifier and binary classifier. But if we use binary classifier, how can we get the ind category? And how to get the results of MSP + binary and GDA + binary?**
 
