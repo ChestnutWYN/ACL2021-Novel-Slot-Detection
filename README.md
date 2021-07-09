@@ -44,7 +44,7 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
 - `output_dir`, default="./output"
 - `batch_size`, default=256
 - `cuda`, default=1
-## ResultS
+## Results
 
 1. IND and NSD results with different proportions (5%, 15% and 30%) of classes are treated as unknown
 slots on Snips-NSD. * indicates the significant improvement over all baselines (p < 0.05).
