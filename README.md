@@ -63,7 +63,7 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
         <td><b>IND</b></td>
                 <td colspan="2"><b>NSD</b></td>
         </tr>
-        <tr>
+      <tr  align="center">
             <td><b>detection method</b></td>
             <td><b>objective</b></td>
             <td><b>distance strategy</b></td>
