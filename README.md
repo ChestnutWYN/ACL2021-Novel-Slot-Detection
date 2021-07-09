@@ -47,7 +47,135 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
 - `batch_size`, default=256
 - `cuda`, default=1
 ## Result
-
+<table>
+      <tr  align="center">
+        <td colspan="3"><b></b></td>
+        <td colspan="3"><b>5%</b></td>
+        <td colspan="3"><b>15%</b></td>
+        <td colspan="3"><b>30%</b></td>
+    </tr>
+      <tr  align="center">
+           <td colspan="3"><b>Models</b></td>
+            <td><b>IND</b></td>
+                <td colspan="2"><b>NSD</b></td>
+            <td><b>IND</b></td>
+                <td colspan="2"><b>NSD</b></td>
+        <td><b>IND</b></td>
+                <td colspan="2"><b>NSD</b></td>
+        </tr>
+        <tr>
+            <td><b>detection method</b></td>
+            <td><b>objective</b></td>
+            <td><b>distance strategy</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Token F1</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Token F1</b></td>
+             <td><b>Span F1</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Token F1</b></td>
+        </tr>
+        <tr>
+            <td>MSP</td>
+            <td>binary</td>
+            <td>-</td>
+            <td>87.21 </td>
+            <td>12.34 </td>
+            <td>25.16 </td>
+            <td>71.44 </td>
+            <td>12.31 </td>
+            <td>39.50 </td>
+            <td>58.88 </td>
+            <td>8.73 </td>
+            <td>40.38 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>multiple</td>
+            <td>-</td>
+            <td>88.05 </td>
+            <td>14.04 </td>
+            <td>30.50 </td>
+            <td>79.71 </td>
+            <td>20.97 </td>
+            <td>40.02 </td>
+            <td>78.52 </td>
+            <td>25.26 </td>
+            <td>46.91 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>binary+multiple</td>
+            <td>-</td>
+            <td>89.59 </td>
+            <td>23.58 </td>
+            <td>37.55 </td>
+            <td>83.72 </td>
+            <td>24.70 </td>
+            <td>45.32 </td>
+            <td>79.08 </td>
+            <td>30.66 </td>
+            <td>52.10 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>binary</td>
+            <td>difference</td>
+            <td>87.95 </td>
+            <td>23.83 </td>
+            <td>35.83 </td>
+            <td>83.65 </td>
+            <td>22.06 </td>
+            <td>43.99 </td>
+            <td>78.72 </td>
+            <td>32.50 </td>
+            <td>44.13 </td>
+        </tr>
+        <tr>
+            <td>GDA</td>
+            <td>binary</td>
+            <td>minumum</td>
+            <td>61.29 </td>
+            <td>10.36 </td>
+            <td>17.08 </td>
+            <td>49.11 </td>
+            <td>16.91 </td>
+            <td>31.10 </td>
+            <td>48.07 </td>
+            <td>15.56 </td>
+            <td>33.78 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>multiple</td>
+            <td>difference</td>
+            <td>93.14 </td>
+            <td>29.73 </td>
+            <td>45.99 </td>
+            <td>90.07 </td>
+            <td>31.96 </td>
+            <td>53.02 </td>
+            <td>85.56 </td>
+            <td>36.16 </td>
+            <td>54.55 </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>multiple</td>
+            <td>minumum</td>
+            <td>93.10 </td>
+            <td>31.67*</td>
+            <td>46.97*</td>
+            <td>90.18 </td>
+            <td>32.19 </td>
+            <td>53.75*</td>
+            <td>86.26*</td>
+            <td>38.64*</td>
+            <td>55.24*</td>
+        </tr>
+</table>
 ## Citation
 ```
 @article{Wu2021NovelSD,
