@@ -77,7 +77,7 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
             <td><b>Span F1</b></td>
             <td><b>Token F1</b></td>
         </tr>
-        <tr>
+      <tr  align="center">
             <td>MSP</td>
             <td>binary</td>
             <td>-</td>
@@ -91,8 +91,8 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
             <td>8.73 </td>
             <td>40.38 </td>
         </tr>
-        <tr>
-            <td></td>
+      <tr  align="center">
+            <td>MSP</td>
             <td>multiple</td>
             <td>-</td>
             <td>88.05 </td>
@@ -105,8 +105,8 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
             <td>25.26 </td>
             <td>46.91 </td>
         </tr>
-        <tr>
-            <td></td>
+      <tr  align="center">
+            <td>MSP</td>
             <td>binary+multiple</td>
             <td>-</td>
             <td>89.59 </td>
@@ -119,8 +119,8 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
             <td>30.66 </td>
             <td>52.10 </td>
         </tr>
-        <tr>
-            <td></td>
+      <tr  align="center">
+            <td>GDA</td>
             <td>binary</td>
             <td>difference</td>
             <td>87.95 </td>
@@ -133,7 +133,7 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
             <td>32.50 </td>
             <td>44.13 </td>
         </tr>
-        <tr>
+      <tr  align="center">
             <td>GDA</td>
             <td>binary</td>
             <td>minumum</td>
@@ -147,8 +147,8 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
             <td>15.56 </td>
             <td>33.78 </td>
         </tr>
-        <tr>
-            <td></td>
+      <tr  align="center">
+            <td>GDA</td>
             <td>multiple</td>
             <td>difference</td>
             <td>93.14 </td>
@@ -161,8 +161,8 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
             <td>36.16 </td>
             <td>54.55 </td>
         </tr>
-        <tr>
-            <td></td>
+      <tr  align="center">
+            <td>GDA</td>
             <td>multiple</td>
             <td>minumum</td>
             <td>93.10 </td>
