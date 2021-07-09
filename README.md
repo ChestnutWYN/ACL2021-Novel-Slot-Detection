@@ -47,6 +47,10 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
 - `batch_size`, default=256
 - `cuda`, default=1
 ## Result
+
+1. IND and NSD results with different proportions (5%, 15% and 30%) of classes are treated as unknown
+slots on Snips-NSD. * indicates the significant improvement over all baselines (p < 0.05).
+
 <table>
       <tr  align="center">
         <td colspan="3"><b></b></td>
@@ -174,6 +178,139 @@ python --mode both --dataset SnipsNSD5% --threshold 8.0 --output_dir ./output --
             <td>86.26*</td>
             <td>38.64*</td>
             <td>55.24*</td>
+        </tr>
+</table>
+
+2.  IND and NSD results with different proportions (5%, 15% and 30%) of classes are treated as unknown
+slots on ATIS-NSD. * indicates the significant improvement over all baselines (p < 0.05).
+
+<table>
+      <tr  align="center">
+        <td colspan="3"><b></b></td>
+        <td colspan="3"><b>5%</b></td>
+        <td colspan="3"><b>15%</b></td>
+        <td colspan="3"><b>30%</b></td>
+    </tr>
+      <tr  align="center">
+           <td colspan="3"><b>Models</b></td>
+            <td><b>IND</b></td>
+                <td colspan="2"><b>NSD</b></td>
+            <td><b>IND</b></td>
+                <td colspan="2"><b>NSD</b></td>
+        <td><b>IND</b></td>
+                <td colspan="2"><b>NSD</b></td>
+        </tr>
+      <tr  align="center">
+            <td><b>detection method</b></td>
+            <td><b>objective</b></td>
+            <td><b>distance strategy</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Token F1</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Token F1</b></td>
+             <td><b>Span F1</b></td>
+            <td><b>Span F1</b></td>
+            <td><b>Token F1</b></td>
+        </tr>
+      <tr  align="center">
+            <td>MSP</td>
+            <td>binary</td>
+            <td>-</td>
+            <td>92.04 </td>
+            <td>19.73 </td>
+            <td>29.63 </td>
+            <td>91.74 </td>
+            <td>23.40 </td>
+            <td>33.89 </td>
+            <td>80.49 </td>
+            <td>21.88 </td>
+            <td>39.17 </td>
+        </tr>
+      <tr  align="center">
+            <td>MSP</td>
+            <td>multiple</td>
+            <td>-</td>
+            <td>94.33 </td>
+            <td>27.15 </td>
+            <td>31.16 </td>
+            <td>92.54 </td>
+            <td>39.88 </td>
+            <td>42.29 </td>
+            <td>87.63 </td>
+            <td>40.42 </td>
+            <td>47.64 </td>
+        </tr>
+      <tr  align="center">
+            <td>MSP</td>
+            <td>binary+multiple</td>
+            <td>-</td>
+            <td>94.41 </td>
+            <td>32.49 </td>
+            <td>43.48 </td>
+            <td>93.29 </td>
+            <td>41.23 </td>
+            <td>43.13 </td>
+            <td>90.14 </td>
+            <td>41.76 </td>
+            <td>51.87 </td>
+        </tr>
+      <tr  align="center">
+            <td>GDA</td>
+            <td>binary</td>
+            <td>difference</td>
+            <td>93.69 </td>
+            <td>27.02 </td>
+            <td>34.21 </td>
+            <td>92.13 </td>
+            <td>30.51 </td>
+            <td>36.30 </td>
+            <td>88.73 </td>
+            <td>30.91 </td>
+            <td>45.64 </td>
+        </tr>
+      <tr  align="center">
+            <td>GDA</td>
+            <td>binary</td>
+            <td>minumum</td>
+            <td>93.57 </td>
+            <td>15.90 </td>
+            <td>20.96 </td>
+            <td>90.98 </td>
+            <td>24.53 </td>
+            <td>27.26 </td>
+            <td>88.21 </td>
+            <td>26.40 </td>
+            <td>39.83 </td>
+        </tr>
+      <tr  align="center">
+            <td>GDA</td>
+            <td>multiple</td>
+            <td>difference</td>
+            <td>95.20 </td>
+            <td>47.78* </td>
+            <td>51.54* </td>
+            <td>93.92 </td>
+            <td>50.92* </td>
+            <td>52.24* </td>
+            <td>92.02 </td>
+            <td>51.26* </td>
+            <td>56.59* </td>
+        </tr>
+      <tr  align="center">
+            <td>GDA</td>
+            <td>multiple</td>
+            <td>minumum</td>
+            <td>95.31* </td>
+            <td>41.74 </td>
+            <td>45.91 </td>
+            <td>93.88 </td>
+            <td>43.78 </td>
+            <td>46.18 </td>
+            <td>91.67 </td>
+            <td>45.44 </td>
+            <td>52.37 </td>
         </tr>
 </table>
 
